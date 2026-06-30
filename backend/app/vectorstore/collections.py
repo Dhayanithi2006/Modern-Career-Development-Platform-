@@ -1,0 +1,5 @@
+RESUME_CHUNKS = "resume_chunks"
+STUDENT_PROFILES = "student_profiles"
+JOB_DESCRIPTIONS = "job_descriptions"
+CAREER_KNOWLEDGE_BASE = "career_knowledge_base"
+INTERVIEW_KNOWLEDGE_BASE = "interview_knowledge_base"
